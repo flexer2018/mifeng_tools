@@ -93,7 +93,8 @@
 - 插件导出的 `cookies.txt` 必须放置在 `cookies/` 文件夹下，并命名为 `www.youtube.com_cookies.txt`。
 - 请定期更新 cookies 文件以保证下载功能正常使用。
 - 不同网站可能需要不同的 cookies 文件，请自行扩展支持。
-
+- 根目标需要有一个ffmpeg文件夹. 放置 ffmepg的bin文件.由于web方式无法上传.请从打包文件中提取
+- 
 ---
 
 ## 🤝 联系方式
